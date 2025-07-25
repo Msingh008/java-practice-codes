@@ -3,7 +3,7 @@ package practice;
 public class ReverseUppertoLower {
 public static void main(String[] args) {
 	String name="MANISH kumar"
-	String temp="";
+	String temp=""
 	int x=0;
 	for(int i=0;i<name.length();i++) {
 		if(65<=(int)name.charAt(i) && (int)name.charAt(i)<=90){
